@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an undergraduate at Rice University studying Computer Science and Mathematics, with a minor in Global Health Technologies. 
+I am an undergraduate at Rice University studying Computer Science and Mathematics.
 <!--
 **easydeze/easydeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
